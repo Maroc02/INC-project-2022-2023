@@ -7,13 +7,13 @@ Circuit design   – 4/5
 
 Points in total  – 19/20
 
-Bodovací systém:\
+Bodovací systém:
  - Basic testy = 5b, zakladni test spravne funkcionality (zcela identicke testy jako v souboru test.zip, ktery byl v zadani)\
- - Advanced testy = 5 testu, kazdy za 2b 
-   test a1 ~ 2 slova hned za sebou \
+ - Advanced testy = 5 testu, kazdy za 2b\ 
+   test a1 ~ 2 slova hned za sebou\
    test a2 ~ nestabilni DIN na hranach baudu\
    test a3 ~ vysilani DIN na o 3% zpomalenych hodinach\
-   test a4 ~ vysilani DIN na o 3% zrychlenych hodinach \
+   test a4 ~ vysilani DIN na o 3% zrychlenych hodinach\
    test a5 ~ kombinace vseho)\  
  - Dokumentace = 5b\
  - Penalta = body dolu za pozdni odevzdani / nedodrzeni formatu
