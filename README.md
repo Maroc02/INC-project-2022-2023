@@ -7,7 +7,6 @@ Circuit design   – 4/5
 
 Points in total  – 19/20\
 <br/>
-<br/>
 Pointing system:
  - Basic testy = 5b, zakladni test spravne funkcionality (zcela identicke testy jako v souboru test.zip, ktery byl v zadani)
  - Advanced testy = 5 testu, 2b za kazdy <br/>
@@ -15,6 +14,6 @@ Pointing system:
    test a2 ~ nestabilni DIN na hranach baudu\
    test a3 ~ vysilani DIN na o 3% zpomalenych hodinach\
    test a4 ~ vysilani DIN na o 3% zrychlenych hodinach\
-   test a5 ~ kombinace vseho)
+   test a5 ~ kombinace vseho
  - Dokumentace = 5b
  - Penalta = body dolu za pozdni odevzdani / nedodrzeni formatu
