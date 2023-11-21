@@ -7,6 +7,7 @@ Circuit design   – 4/5
 
 Points in total  – 19/20\
 <br/>
+<br/>
 Pointing system:
  - Basic testy = 5b, zakladni test spravne funkcionality (zcela identicke testy jako v souboru test.zip, ktery byl v zadani)
  - Advanced testy = 5 testu, 2b za kazdy <br/>
